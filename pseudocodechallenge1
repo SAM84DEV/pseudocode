@@ -1,0 +1,18 @@
+declaration
+
+reel argent = montantDispo
+reel prix = coutHoraireRandonnéeAne
+        
+         Tant que montantDispo > 0 et coutHoraireRandonnéeAne >0
+         i= 0
+         alors entier nbreMaxAne = argent / prix
+         retourner nbreMaxAne
+         fin
+
+
+
+
+
+
+
+
